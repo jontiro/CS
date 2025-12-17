@@ -26,6 +26,7 @@ pip --version
 
 ```bash
 # Instalar Homebrew si no lo tienes
+# Visita https://brew.sh/ para más información
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Instalar Python

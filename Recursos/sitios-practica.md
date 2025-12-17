@@ -107,7 +107,7 @@ Lista de plataformas para practicar coding y resolver problemas de algoritmos.
 ### Para Entrevistas
 1. LeetCode - Principal recurso
 2. HackerRank - Práctica adicional
-3. AlgoExpert (pago) - Explicaciones detalladas
+3. AlgoExpert (https://www.algoexpert.io - pago) - Explicaciones detalladas
 
 ### Para Programación Competitiva
 1. Codeforces - Contests regulares

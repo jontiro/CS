@@ -45,7 +45,7 @@ def busqueda_binaria(arr, objetivo):
 # Ejemplo de uso
 numeros = [1, 3, 5, 7, 9, 11, 13, 15]
 resultado = busqueda_binaria(numeros, 7)
-print(f"Elemento encontrado en el índice: {resultado}")  # Output: 3
+print(f"Elemento encontrado en el índice: {resultado}")  # Output: Elemento encontrado en el índice: 3
 ```
 
 ## Casos de Uso
